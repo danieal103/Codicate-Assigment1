@@ -1,1 +1,4 @@
-# Codicate-Assigment1
+# Codicate-Assigment
+
+Developed by Daniel Iliyaguev
+*Responnsive
